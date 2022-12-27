@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: In Progress
+  order: 5
+---
+
+<h1>In Progress</h1>
+<h3>These are stories that are currently being worked on</h3>
+
+{% set postslist = collections.inprogress %}
+{% include "postslist.njk" %}

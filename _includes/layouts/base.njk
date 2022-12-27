@@ -24,17 +24,6 @@
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
-      <!-- Delete this message -->
-      <div class="warning">
-        <h2>List of things to do:</h2>
-        <ul>
-          <li>Set up agile workflow.</li>
-          <li>Create page layout in Figma</li>
-          <li>Automate workflow with hooks.</li>
-        </ul>
-        <p><em>This is a note that should show up on every page and once completed will be deleted.</em></p>
-      </div>
-      <!-- Stop deleting -->
 
       {{ content | safe }}
     </main>
