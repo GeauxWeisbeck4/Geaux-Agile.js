@@ -9,11 +9,11 @@ eleventyNavigation:
 <h3>The home of the newest Agile workflow, built with 11ty</h3>
 <p>This project is in the early stages of work, so check back in later!</p>
 
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+{% set maxPosts = collections.posts.length | min(5) %}
+<h2>Here are some things I am currently working on:</h2>
 
-{% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
+{% set postslist = collections.inprogress | head(-5) %}
+{% set postslistCounter = collections.inprogress | length %}
 {% include "postslist.njk" %}
 
 <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>

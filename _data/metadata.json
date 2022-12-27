@@ -1,17 +1,17 @@
 {
   "title": "Geaux Agile",
-  "url": "https://11steezy.tech/",
+  "url": "https://geauxagilejs.netlify.app/",
   "language": "en",
-  "description": "This is one steezy 11ty tech website",
+  "description": "Geaux Agile JS is an implementation of agile methods to help you stay organized and innovate quickly",
   "feed": {
-    "subtitle": "An 11ty website, all about steez and tech.",
+    "subtitle": "Innovate quickly, geaux agile.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://11steezy.tech"
+    "id": "https://geauxagilejs.netlify.app"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://11steezy.tech/feed/feed.json"
+    "url": "https://geauxagilejs.netlify.app/feed/feed.json"
   },
   "author": {
     "name": "Andrew Weisbeck",
