@@ -1,0 +1,21 @@
+{
+  "title": "Geaux Agile",
+  "url": "https://11steezy.tech/",
+  "language": "en",
+  "description": "This is one steezy 11ty tech website",
+  "feed": {
+    "subtitle": "An 11ty website, all about steez and tech.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://11steezy.tech"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://11steezy.tech/feed/feed.json"
+  },
+  "author": {
+    "name": "Andrew Weisbeck",
+    "email": "andrew.weisbeck@gmail.com",
+    "url": "https://geauxweisbeck4.dev/"
+  }
+}
