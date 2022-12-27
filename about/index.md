@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+This website is the 11 Steezy Tech Agile Workflow to help me build my 11 Steezy Tech Website and business. More to come later on.
