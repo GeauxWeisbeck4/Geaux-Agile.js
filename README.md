@@ -15,3 +15,4 @@ Click on the link below:
 - [ ] New components for a kanban board and calendar
 - [ ] Pomodoro Timer
 - [ ] CLI tool that makes it easy to grab and drop tags
+- [ ] Deploy to Vercel and other platforms as well as Netlify
