@@ -235,6 +235,7 @@ a[href].post-tag:focus {
   font-size: 0.6875em; /* 11px /16 */
   padding: 0.09090909090909em 0.3636363636364em; /* 1px 4px /11 */
   margin-left: 0.8em; /* 8px /10 */
+  background-color: #198363;
   color: var(--darkgray);
   border: 1px solid var(--gray);
   border-radius: 0.25em; /* 3px /12 */
