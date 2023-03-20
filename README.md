@@ -1,4 +1,4 @@
-# 11Steezy.Tech Agile Workflow
+# GeauxAgile.js Workflow
 
 This is just a workflow website for creating a project of mine. More of an example than anything to see how an agile workflow could work within Stackblitz or another web browser IDE.
 
