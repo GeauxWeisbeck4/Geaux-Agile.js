@@ -1,8 +1,13 @@
-# GeauxAgile.js Workflow
+# AndrewsDigital.Garden
 
-This is just a workflow website for creating a project of mine. More of an example than anything to see how an agile workflow could work within Stackblitz or another web browser IDE.
+This used to be Geaux-Agile.js but has been reformed to become my Digital Garden, a public workspace; my knowledge base; a fucking garden of ideas that I nurture and talk to while I gently feed them water and sunshine and watch them grow into fascinating digital creations that hopefully will someday help me afford to not be homeless.
+
+Yes, as of August 20th, 2023 I have been homeless for officially over 8 months and I am losing my mind. I have never been homeless before and I just don't know how I'm getting out of this one, but that's what this Garden is for. Hopefully my 'Million Dollar Idea' (or 3 thousand dollar idea) is really close because I can't take being out here anymore in this unbearable southern heat and college football starts soon.
+
+Fuck.
 
 ## To work on this project:
+
 Click on the link below:
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/11steezy-tech)
